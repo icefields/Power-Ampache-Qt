@@ -1,0 +1,527 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the powerampache.icefields package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: powerampache.icefields\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-29 19:37+0000\n"
+"PO-Revision-Date: 2026-10-01 11:30+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#: ../qml/Main.qml:200
+msgid "Internal error"
+msgstr "Interne foutmelding"
+
+#: ../qml/components/NavBar.qml:512
+msgid "Home"
+msgstr "Overzicht"
+
+#: ../qml/components/NavBar.qml:527 ../qml/pages/LibraryPage.qml:142
+msgid "Library"
+msgstr "Collectie"
+
+#: ../qml/components/OfflineBanner.qml:17
+msgid "Offline - showing cached music"
+msgstr "Offline — er wordt muziek uit de cache getoond"
+
+#: ../qml/components/PlayerOverlay.qml:216
+#: ../qml/components/PlayerOverlay.qml:218
+#: ../qml/components/PlayerOverlay.qml:274 ../qml/pages/PlayerPage.qml:46
+#: ../qml/pages/PlayerPage.qml:82 ../qml/pages/PlayerPage.qml:84
+msgid "Info"
+msgstr "Informatie"
+
+#: ../qml/components/PlayerOverlay.qml:216 ../qml/pages/PlayerPage.qml:82
+msgid "Lyrics"
+msgstr "Songtekst"
+
+#: ../qml/components/PlayerOverlay.qml:216
+#: ../qml/components/PlayerOverlay.qml:218
+#: ../qml/components/PlayerOverlay.qml:263
+#: ../qml/components/PlayerOverlay.qml:274 ../qml/pages/PlayerPage.qml:31
+#: ../qml/pages/PlayerPage.qml:46 ../qml/pages/PlayerPage.qml:82
+#: ../qml/pages/PlayerPage.qml:84
+msgid "Now Playing"
+msgstr "Je luistert naar"
+
+#: ../qml/components/PlayerOverlay.qml:216
+#: ../qml/components/PlayerOverlay.qml:218
+#: ../qml/components/PlayerOverlay.qml:274 ../qml/pages/PlayerPage.qml:46
+#: ../qml/pages/PlayerPage.qml:82 ../qml/pages/PlayerPage.qml:84
+msgid "Queue"
+msgstr "Wachtrij"
+
+#: ../qml/components/SongInfoPanel.qml:76
+msgid "Title"
+msgstr "Titel"
+
+#: ../qml/components/SongInfoPanel.qml:77
+msgid "Artist"
+msgstr "Artiest"
+
+#: ../qml/components/SongInfoPanel.qml:78
+msgid "Album"
+msgstr "Album"
+
+#: ../qml/components/SongInfoPanel.qml:79
+msgid "Album artist"
+msgstr "Albumartiest"
+
+#: ../qml/components/SongInfoPanel.qml:80
+msgid "Genre"
+msgstr "Genre"
+
+#: ../qml/components/SongInfoPanel.qml:82 ../qml/pages/AlbumPage.qml:108
+msgid "Year"
+msgstr "Jaar"
+
+#: ../qml/components/SongInfoPanel.qml:85
+msgid "Track"
+msgstr "Nummer"
+
+#: ../qml/components/SongInfoPanel.qml:88
+msgid "Disk"
+msgstr "Schijf"
+
+#: ../qml/components/SongInfoPanel.qml:91
+msgid "Duration"
+msgstr "Duur"
+
+#: ../qml/components/SongInfoPanel.qml:95
+msgid "Bitrate"
+msgstr "Bitsnelheid"
+
+#: ../qml/components/SongInfoPanel.qml:98
+msgid "Sample rate"
+msgstr "Samplesnelheid"
+
+#: ../qml/components/SongInfoPanel.qml:101
+msgid "Channels"
+msgstr "Aantal kanalen"
+
+#: ../qml/components/SongInfoPanel.qml:106
+msgid "File size"
+msgstr "Bestandsgrootte"
+
+#: ../qml/components/SongInfoPanel.qml:108
+msgid "Format"
+msgstr "Formaat"
+
+#: ../qml/components/SongInfoPanel.qml:109
+msgid "Composer"
+msgstr "Componist"
+
+#: ../qml/components/SongInfoPanel.qml:111
+msgid "Play count"
+msgstr "Aantal keer beluisterd"
+
+#: ../qml/components/SongInfoPanel.qml:114
+msgid "Rating"
+msgstr "Waardering"
+
+#: ../qml/components/SongInfoPanel.qml:116
+msgid "Language"
+msgstr "Taal"
+
+#: ../qml/components/SongInfoPanel.qml:117
+msgid "Comment"
+msgstr "Opmerking"
+
+#: ../qml/components/SongInfoPanel.qml:118
+msgid "Publisher"
+msgstr "Uitgever"
+
+#: ../qml/components/SongInfoPanel.qml:119
+msgid "MusicBrainz ID"
+msgstr "MusicBrainz-id"
+
+#: ../qml/components/SongInfoPanel.qml:123
+msgid "Replay gain"
+msgstr "ReplayGain"
+
+#: ../qml/components/UserMenu.qml:117 ../qml/pages/SettingsPage.qml:46
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../qml/components/UserMenu.qml:127 ../qml/pages/AboutPage.qml:17
+msgid "About"
+msgstr "Over"
+
+#: ../qml/components/WelcomeDialog.qml:16
+msgid "Welcome to Power Ampache"
+msgstr "Welkom in Power Ampache"
+
+#: ../qml/components/WelcomeDialog.qml:23
+msgid "Coming soon:"
+msgstr "Binnenkort beschikbaar:"
+
+#: ../qml/components/WelcomeDialog.qml:30
+msgid "● Star ratings for songs, albums and playlists"
+msgstr "● Waarderingen voor nummers, albums en afspeellijsten"
+
+#: ../qml/components/WelcomeDialog.qml:31
+msgid "● Playlist creation and editing"
+msgstr "● Afspeellijsten samenstellen en bewerken"
+
+#: ../qml/components/WelcomeDialog.qml:32
+msgid "● Per-song context menu"
+msgstr "● Eigen menu per nummer"
+
+#: ../qml/components/WelcomeDialog.qml:39
+msgid "Planned: downloads for offline listening."
+msgstr "Op de planning: downloaden voor offline-luisteren."
+
+#: ../qml/components/WelcomeDialog.qml:46
+msgid ""
+"The app is under active development, with more features on the way. If you "
+"run into any issues, please report them and they will be addressed."
+msgstr ""
+"Let op: deze app wordt actief ontwikkeld — er zijn meer functies in "
+"aantocht. Als je problemen ervaart, meld ze dan, zodat ze kunnen worden "
+"opgelost."
+
+#: ../qml/components/WelcomeDialog.qml:50
+msgid "Let's go"
+msgstr "Aan de slag"
+
+#: ../qml/pages/AboutPage.qml:40
+msgid "Server"
+msgstr "Server"
+
+#: ../qml/pages/AboutPage.qml:41
+msgid "Server address"
+msgstr "Serveradres"
+
+#: ../qml/pages/AboutPage.qml:42
+msgid "App version"
+msgstr "Appversie"
+
+#: ../qml/pages/AboutPage.qml:43
+msgid "Ampache API version"
+msgstr "Api-versie van Ampache"
+
+#: ../qml/pages/AboutPage.qml:47
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: ../qml/pages/AboutPage.qml:117
+msgid "Links"
+msgstr "Links"
+
+#: ../qml/pages/AboutPage.qml:140
+msgid "Matrix Space"
+msgstr "Matrixkanaal"
+
+#: ../qml/pages/AboutPage.qml:171
+msgid "Telegram"
+msgstr "Telegram"
+
+#: ../qml/pages/AboutPage.qml:202
+msgid "Telegram chat"
+msgstr "Telegramchat"
+
+#: ../qml/pages/AboutPage.qml:233
+msgid "Mastodon"
+msgstr "Mastodon"
+
+#: ../qml/pages/AboutPage.qml:264
+msgid "Source code"
+msgstr "Broncode"
+
+#: ../qml/pages/AboutPage.qml:276
+msgid "License"
+msgstr "Licentie"
+
+#: ../qml/pages/AboutPage.qml:295
+msgid "GPL-3.0-only"
+msgstr "Alleen GPL-3.0"
+
+#: ../qml/pages/AboutPage.qml:296
+msgid "Free as in Freedom"
+msgstr "Vrij als in vrijheid"
+
+#: ../qml/pages/AlbumPage.qml:59 ../qml/pages/PlayerPage.qml:36
+msgid "Close"
+msgstr "Sluiten"
+
+#: ../qml/pages/AlbumPage.qml:123 ../qml/pages/ArtistPage.qml:113
+#: ../qml/pages/LibraryPage.qml:576 ../qml/pages/PlaylistDetailPage.qml:78
+msgid "Songs"
+msgstr "Nummers"
+
+#: ../qml/pages/AlbumPage.qml:162
+msgid "Total Time"
+msgstr "Totaalduur"
+
+#: ../qml/pages/AlbumPage.qml:244 ../qml/pages/PlaylistDetailPage.qml:187
+msgid "No songs"
+msgstr "Er zijn geen nummers"
+
+#: ../qml/pages/ArtistPage.qml:261 ../qml/pages/LibraryPage.qml:563
+msgid "No albums"
+msgstr "Er zijn geen albums"
+
+#: ../qml/pages/ErrorPage.qml:10
+msgid "Could not open the local database"
+msgstr "De lokale databank kan niet worden geopend"
+
+#: ../qml/pages/ErrorPage.qml:13 ../qml/pages/HomePage.qml:57
+#: ../qml/pages/LoginPage.qml:22 powerampache.desktop.in.h:1
+msgid "Power Ampache"
+msgstr "Power Ampache"
+
+#: ../qml/pages/HomePage.qml:178
+msgid "Recently played"
+msgstr "Onlangs beluisterd"
+
+#: ../qml/pages/HomePage.qml:179
+msgid "Favourites"
+msgstr "Favorieten"
+
+#: ../qml/pages/HomePage.qml:180
+msgid "Frequently played"
+msgstr "Vaak beluisterd"
+
+#: ../qml/pages/HomePage.qml:181
+msgid "Highest rated"
+msgstr "Hoogst gewaardeerd"
+
+#: ../qml/pages/HomePage.qml:182
+msgid "Newly added"
+msgstr "Nieuwe nummers"
+
+#: ../qml/pages/HomePage.qml:183
+msgid "Random"
+msgstr "Willekeurig"
+
+#: ../qml/pages/LibraryPage.qml:173
+msgid "Search Playlists"
+msgstr "Afspeellijsten doorzoeken"
+
+#: ../qml/pages/LibraryPage.qml:174
+msgid "Search Albums"
+msgstr "Albums doorzoeken"
+
+#: ../qml/pages/LibraryPage.qml:175
+msgid "Search Songs"
+msgstr "Nummers doorzoeken"
+
+#: ../qml/pages/LibraryPage.qml:176
+msgid "Search Artists"
+msgstr "Artiesten doorzoeken"
+
+#: ../qml/pages/LibraryPage.qml:299
+msgid "tracks"
+msgstr "nummers"
+
+#: ../qml/pages/LibraryPage.qml:388 ../qml/pages/LibraryPage.qml:517
+msgid "Load more"
+msgstr "Meer laden"
+
+#: ../qml/pages/LibraryPage.qml:488 ../qml/pages/SettingsPage.qml:314
+msgid "albums"
+msgstr "albums"
+
+#: ../qml/pages/LibraryPage.qml:489 ../qml/pages/SettingsPage.qml:313
+msgid "songs"
+msgstr "nummers"
+
+#: ../qml/pages/LibraryPage.qml:559
+msgid "No results"
+msgstr "Er zijn geen zoekresultaten"
+
+#: ../qml/pages/LibraryPage.qml:561
+msgid "No playlists"
+msgstr "Er zijn geen afspeellijsten"
+
+#: ../qml/pages/LibraryPage.qml:565
+msgid "Nothing played yet"
+msgstr "Je hebt nog niets afgespeeld"
+
+#: ../qml/pages/LibraryPage.qml:566
+msgid "No artists"
+msgstr "Er zijn geen artiesten"
+
+#: ../qml/pages/LibraryPage.qml:574
+msgid "Playlists"
+msgstr "Afspeellijsten"
+
+#: ../qml/pages/LibraryPage.qml:575
+msgid "Albums"
+msgstr "Albums"
+
+#: ../qml/pages/LibraryPage.qml:577
+msgid "Artists"
+msgstr "Artiesten"
+
+#: ../qml/pages/LoginPage.qml:49
+msgid "POWER AMPACHE"
+msgstr "POWER AMPACHE"
+
+#: ../qml/pages/LoginPage.qml:56
+msgid "Connect to your Ampache server"
+msgstr "Maak verbinding met je Ampache-server"
+
+#: ../qml/pages/LoginPage.qml:62
+msgid "Server URL"
+msgstr "Server-url"
+
+#: ../qml/pages/LoginPage.qml:69
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: ../qml/pages/LoginPage.qml:75
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: ../qml/pages/LoginPage.qml:91
+msgid "Connect"
+msgstr "Verbinden"
+
+#: ../qml/pages/LoginPage.qml:101
+msgid "Could not save credentials"
+msgstr "De inloggegevens kunnen niet worden bewaard"
+
+#: ../qml/pages/LoginPage.qml:110
+msgid "Wrong username or password"
+msgstr "Onjuiste gebruikersnaam of wachtwoord"
+
+#: ../qml/pages/LoginPage.qml:112
+msgid "Server unreachable"
+msgstr "De server is onbereikbaar"
+
+#: ../qml/pages/LoginPage.qml:114
+msgid "Connection failed"
+msgstr "De verbinding is mislukt"
+
+#: ../qml/pages/SettingsPage.qml:25
+msgid "Low (96 kbps)"
+msgstr "Laag (96 kbps)"
+
+#: ../qml/pages/SettingsPage.qml:26
+msgid "Medium (192 kbps)"
+msgstr "Gemiddeld (192 kbps)"
+
+#: ../qml/pages/SettingsPage.qml:27
+msgid "High (320 kbps)"
+msgstr "Hoog (320 kbps)"
+
+#: ../qml/pages/SettingsPage.qml:28
+msgid "Lossless (original)"
+msgstr "Verliesvrij (origineel)"
+
+#: ../qml/pages/SettingsPage.qml:64
+msgid "Theme"
+msgstr "Thema"
+
+#: ../qml/pages/SettingsPage.qml:68
+msgid "Dark"
+msgstr "Donker thema"
+
+#: ../qml/pages/SettingsPage.qml:69
+msgid "Light"
+msgstr "Licht thema"
+
+#: ../qml/pages/SettingsPage.qml:70
+msgid "System (phone)"
+msgstr "Systeemthema (telefoon)"
+
+#: ../qml/pages/SettingsPage.qml:112
+msgid "UI Scale (desktop only)"
+msgstr "Vormgevingsgrootte (alleen op computers)"
+
+#: ../qml/pages/SettingsPage.qml:116
+msgid "100%"
+msgstr "100%"
+
+#: ../qml/pages/SettingsPage.qml:117
+msgid "150%"
+msgstr "150%"
+
+#: ../qml/pages/SettingsPage.qml:118
+msgid "170%"
+msgstr "170%"
+
+#: ../qml/pages/SettingsPage.qml:119
+msgid "200%"
+msgstr "200%"
+
+#: ../qml/pages/SettingsPage.qml:152
+msgid "Streaming"
+msgstr "Streamen"
+
+#: ../qml/pages/SettingsPage.qml:187
+msgid "Artwork"
+msgstr "Hoezen"
+
+#: ../qml/pages/SettingsPage.qml:201
+msgid "Use server placeholder art"
+msgstr "Hoezen van server tonen"
+
+#: ../qml/pages/SettingsPage.qml:203
+msgid "Switch on if your server provides a custom placeholder art"
+msgstr "Schakel in als je server aangepaste albumhoezen gebruikt"
+
+#: ../qml/pages/SettingsPage.qml:233
+msgid "Cache"
+msgstr "Cache"
+
+#: ../qml/pages/SettingsPage.qml:236
+msgid "Cached library"
+msgstr "Gecachete collectie"
+
+#: ../qml/pages/SettingsPage.qml:241 ../qml/pages/SettingsPage.qml:270
+msgid "Clear cache"
+msgstr "Cache opruimen"
+
+#: ../qml/pages/SettingsPage.qml:248
+msgid "Log out"
+msgstr "Uitloggen"
+
+#: ../qml/pages/SettingsPage.qml:264
+msgid "Counting…"
+msgstr "Bezig met tellen…"
+
+#: ../qml/pages/SettingsPage.qml:271
+msgid "Removes all cached music data. Your login and settings are kept."
+msgstr ""
+"Hierdoor wordt alle gecachete muziek verwijderd, maar niet je "
+"inloggegevens en instellingen."
+
+#: ../qml/pages/SettingsPage.qml:273
+msgid "Clear"
+msgstr "Wissen"
+
+#: ../qml/pages/SettingsPage.qml:281
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../qml/pages/SettingsPage.qml:291
+msgid "Restart required"
+msgstr "Herstart vereist"
+
+#: ../qml/pages/SettingsPage.qml:292
+msgid "Restart the app to apply the new UI scale."
+msgstr "Herstart de app om de grootte aan te passen."
+
+#: ../qml/pages/SettingsPage.qml:294
+msgid "OK"
+msgstr "Oké"
+
+#: ../qml/pages/SettingsPage.qml:315
+msgid "artists"
+msgstr "artiesten"
+
+#: ../qml/pages/SettingsPage.qml:317
+msgid "Unavailable"
+msgstr "Niet beschikbaar"
